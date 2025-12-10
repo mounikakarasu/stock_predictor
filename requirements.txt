@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+yfinance
+matplotlib
+streamlit
+joblib
+pyyaml
