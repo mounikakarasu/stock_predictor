@@ -1,7 +1,7 @@
 data:
-  tickers: []
-  start_date: '2015-01-01'
-  end_date: '2025-01-01'
+  tickers: ["AAPL", "GE", "GOOG", "IBM", "MSFT"] 
+  start_date: 'ignore'
+  end_date: 'ignore'
   interval: '1d'
 
 labels:
